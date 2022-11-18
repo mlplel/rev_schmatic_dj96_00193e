@@ -3635,7 +3635,7 @@
   (symbol (lib_id "DJ96_00193E:240080") (at 190.5 106.68 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 073a8c45-0262-4cc9-adb7-1d84fbec880b)
-    (property "Reference" "U1" (id 0) (at 168.91 85.09 90))
+    (property "Reference" "U1" (id 0) (at 212.09 84.455 90))
     (property "Value" "RAJ240080" (id 1) (at 191.77 99.06 90))
     (property "Footprint" "" (id 2) (at 215.9 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
